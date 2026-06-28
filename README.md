@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+![CLI](https://img.shields.io/badge/CLI-Click-orange)
+
 # 📂 CLI File Organizer with Decorators
 
 A professional Python command-line application that organizes files by **extension**, **size**, or **last modified date**. It supports **dry-run mode**, **undo functionality**, **execution logging**, and **type-safe code**.
